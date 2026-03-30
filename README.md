@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Isaac Abebe 👋
 
-<!--
-**isaacabebe/isaacabebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & Business Administration @ Northeastern University
 
-Here are some ideas to get you started:
+Currently building my technical foundation — coursework in databases, 
+Python, Java, and financial accounting. I build at the 
+intersection of technology and business, from web development 
+and automation to data analytics and financial operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, Java, SQL, HTML/CSS  
+**Tools:** Google Analytics, WordPress, Microsoft 365
+
+📧 abebe.i@northeastern.edu  
+💼 [linkedin.com/in/isaacabebe](https://linkedin.com/in/isaacabebe)
